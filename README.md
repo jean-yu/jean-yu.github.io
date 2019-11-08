@@ -1,1 +1,2 @@
-# jean-yu.github.io
+# My personal website
+Using Jekyll with the Jakal theme. 
